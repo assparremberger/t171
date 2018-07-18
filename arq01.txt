@@ -1,2 +1,4 @@
 Linha 01 do arquivo 01 --
-Linha 02
+Linha 02 (alterado)
+Linha 03
+linha 04
